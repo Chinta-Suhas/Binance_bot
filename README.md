@@ -20,3 +20,5 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 - USDT-M Futures only
 - Testnet environment
 - Single order per CLI execution
+
+The deployed link is https://huggingface.co/spaces/chintasuhas18/Binanace_bot
